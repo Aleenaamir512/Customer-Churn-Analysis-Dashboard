@@ -18,7 +18,7 @@ It highlights how the same dataset can be analyzed using both no-code and code-f
 |Matplotlib | Visualization (bar, line, funnel)|
 
 ### 📊KPIs Tracked
-- 🧍 Total Customers
+🧍 Total Customers
 
 ✅ Total Active Users
 
