@@ -47,7 +47,7 @@ It highlights how the same dataset can be analyzed using both no-code and code-f
 - Visuals: Pie chart, different bar charts, age-series area chart, KPI cards.
   
 ## 🐍Python Dashboard
-> Found in `customer-churn-dashboard-python`
+> Found in `powerbi-version`
 ### Charts
 - **Bar Chart:**
 - **Box Chart**
