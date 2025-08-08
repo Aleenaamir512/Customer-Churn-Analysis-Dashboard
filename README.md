@@ -15,7 +15,7 @@ It highlights how the same dataset can be analyzed using both no-code and code-f
 |Power BI   | Business dashboard and DAX KPIs  |
 |Python     | Data analysis and static charts  |
 |Pandas     | Data wrangling                   |
-|Matplotlib | Visualization (bar, line, funnel)|
+|Matplotlib | Visualization (bar, line, box)   |
 
 ### 📊KPIs Tracked
 🧍 Total Customers
@@ -35,7 +35,7 @@ It highlights how the same dataset can be analyzed using both no-code and code-f
 💸 Average Total Spend
 
 ## 📊Power BI Dashboard
-> Found in `customer-churn-dashboard-power-bi`
+> Found in `powerbi-version`
 ### Charts
 - **Bar Chart:**
 - **Area Chart:**
@@ -47,7 +47,7 @@ It highlights how the same dataset can be analyzed using both no-code and code-f
 - Visuals: Pie chart, different bar charts, age-series area chart, KPI cards.
   
 ## 🐍Python Dashboard
-> Found in `powerbi-version`
+> Found in `python-version`
 ### Charts
 - **Bar Chart:**
 - **Box Chart**
@@ -76,7 +76,7 @@ A sample churn dataset was used containing the following fields:
 - `Last Interaction`
 - `Churn`
 
-*(Dataset file included in `Churn-analysis.xlsx`)*
+*(Dataset file included in `customer_churn_dataset-testing-master.csv`)*
 
 ## 📚 Learning Outcomes
 
