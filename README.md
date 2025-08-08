@@ -1,4 +1,5 @@
 # Customer-Churn-Analysis-Dashboard 
+A comprehensive churn analysis using both Power BI and Python on a customer dataset. This dual approach showcases how the same dataset can be explored using drag-and-drop BI tools and code-first data science techniques — ideal for hybrid data roles.
 ## 🚀 Project Overview
 A data has been collected from kaggle of random website churn analysis. Churn means how many people withdrawn their subscription of that specific website. In this dashboard I've analyze data on both Python and Power-bi.
 
@@ -17,14 +18,21 @@ It highlights how the same dataset can be analyzed using both no-code and code-f
 |Matplotlib | Visualization (bar, line, funnel)|
 
 ### 📊KPIs Tracked
-- Total Customers
-- Total Active Users
-- Total Churn
-- average Tenure
-- Support Calls
-- Average Payment Delay
-- Average Total Spend
-- Churn Rate
+- 🧍 Total Customers
+
+✅ Total Active Users
+
+🔄 Total Churned Users
+
+📈 Churn Rate
+
+🕒 Average Tenure
+
+📞 Support Calls
+
+⏳ Average Payment Delay
+
+💸 Average Total Spend
 
 ## 📊Power BI Dashboard
 > Found in `customer-churn-dashboard-power-bi`
