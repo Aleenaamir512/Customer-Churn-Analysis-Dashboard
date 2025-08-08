@@ -80,11 +80,15 @@ A sample churn dataset was used containing the following fields:
 
 ## 📚 Learning Outcomes
 
-- 📊 Build interactive dashboards in Power BI using DAX and visuals
-- 🐍 Perform the same analysis in Python using code and charts
-- 🧠 Interpret KPIs like revenue trends, conversion rates, and category performance
-- 🔀 Gain versatility in using both business-friendly and technical tools
+📊 Identify and calculate churn-related KPIs such as churn rate, active customers, and tenure averages.
 
+🐍 Apply Python (Pandas, Matplotlib) for data cleaning, transformation, and churn visualization.
+
+📉 Use Power BI to design interactive churn dashboards with DAX measures and slicers.
+
+🧠 Interpret churn patterns across customer demographics, subscription types, and contract lengths.
+
+🔍 Compare insights from both no-code (Power BI) and code-first (Python) approaches for the same dataset.
 
 ## 📎 How to Use
 
